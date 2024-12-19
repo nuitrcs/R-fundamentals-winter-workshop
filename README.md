@@ -16,7 +16,7 @@ We will cover the following topics:
 
 [How to set up R and RStudio](https://sites.northwestern.edu/researchcomputing/resources/r-and-rstudio/).
 
-# Materials and Setup
+# Recordings
 
 [Day 1](https://northwestern.zoom.us/rec/share/eY-AVR49vYj5KTjbhGZX6sXKTbhifNtVp2LW6QgxT9PKkNwog969wM_NZHQ6LtNZ.xmhosMUPkcoTVhHN)<br>
 [Day 2 (we finished covering day 1)](https://northwestern.zoom.us/rec/share/jGL6z3LyGEzAx3Fpgt3NBzwNOWvv4Pp0DeB49A7mVigsXQm88whzZakV02T17I_n.BHLPqjWvyV8MZ2ds)<br>
